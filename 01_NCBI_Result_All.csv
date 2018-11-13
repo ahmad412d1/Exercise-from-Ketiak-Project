@@ -1,0 +1,11 @@
+,IdList,QueryTranslation,Genus,Species,NoStrain,Size,GC,Genes,Proteins
+0,['1140'],"""Cutibacterium acnes""[Organism]",Cutibacterium,acnes,190,2.513755368421053,59.97208789473691,,
+1,['155'],"""Staphylococcus epidermidis""[Organism] OR Staphylococcus epidermidis[All Fields]",Staphylococcus,epidermidis,17,2.5759058823529415,32.175505882352944,,
+2,['2024'],"""Corynebacterium tuberculostearicum""[Organism]",Corynebacterium,tuberculostearicum,1,2.37226,60.0,2271.0,2171.0
+3,['2054'],"""Staphylococcus capitis""[Organism]",Staphylococcus,capitis,68,2.4777189705882354,32.85989558823532,2408.3970588235293,2284.3970588235293
+4,['43748'],"""Corynebacterium simulans""[Organism]",Corynebacterium,simulans,3,2.6633,59.166666666666664,2510.0,2358.3333333333335
+5,['530'],"""Streptococcus mitis""[Organism]",Streptococcus,mitis,68,1.988722941176471,40.105820588235304,,
+6,['2014'],"""Staphylococcus hominis""[Organism]",Staphylococcus,hominis,65,2.258207846153846,31.46256153846154,2251.4307692307693,2126.5846153846155
+7,['2077'],"""Corynebacterium aurimucosum""[Organism]",Corynebacterium,aurimucosum,9,3.3040300000000005,60.72497777777778,,
+8,['2146'],"""Corynebacterium kroppenstedtii""[Organism]",Corynebacterium,kroppenstedtii,6,2.5157999999999996,56.949999999999996,2163.6666666666665,2042.6666666666667
+9,['2023'],"""Corynebacterium amycolatum""[Organism]",Corynebacterium,amycolatum,6,2.5245016666666666,58.79999999999999,2218.1666666666665,2104.1666666666665

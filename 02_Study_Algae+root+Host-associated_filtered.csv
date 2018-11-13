@@ -1,0 +1,7 @@
+,secondary_accession,url,samples_count,bioproject,accession,biomes,centre_name,last_update,study_abstract,is_public,study_name,data_origination,Biome,Lineage,Latitude,Longitude,Publication
+10,ERP104738,https://www.ebi.ac.uk/metagenomics/api/v1/studies/MGYS00002473?format=csv,69,PRJEB23005,MGYS00002473,"[OrderedDict([('type', 'biomes'), ('id', 'root:Host-associated:Algae'), ('links', {'self': 'https://www.ebi.ac.uk/metagenomics/api/v1/biomes/root:Host-associated:Algae?format=csv'})])]",Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research,2018-06-29T14:31:43,"We aimed to explore the community composition and turnover of eukaryotic and bacterial
+                microorganisms associated with ice-associated and sinking algal aggregates, as well as their similarity
+                to potential source communities of sea ice, water and deep-sea sediments using Illumina tag sequencing.
+                We sampled algae aggregates growing in melt ponds on sea ice, deposited algae aggregates at the seafloor
+                in more than 4000 m water depth, sea ice, upper water column, sediment surface and the gut content of
+                holothurians feeding on the deposits.",True,Microbial diversity of the central Arctic Ocean,SUBMITTED,Algae,root:Host-associated:Algae,81.9255,131.1287,10.3389/fmicb.2018.01035
